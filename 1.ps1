@@ -22,27 +22,27 @@ else
 {
 
 #Force a checkin
-.\PsExec64.exe -d -h -s \\$CompName "c:\program files\mcafee\host intrusion prevention\clientcontrol.exe" /stop "CHANGE THIS...HIPS_GUI_PASSWORD"
+#.\PsExec64.exe -d -h -s \\$CompName "c:\program files\mcafee\host intrusion prevention\clientcontrol.exe" /stop "CHANGE THIS...HIPS_GUI_PASSWORD"
 .\PsExec64.exe -h -s \\$CompName "C:\Program Files\McAfee\Agent\cmdagent.exe" -c
-if ($lastexitcode -ne 0){
+#if ($lastexitcode -ne 0){
 #write-host $lastexitcode
-.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi  /forcerestart
-}
+#.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi  /forcerestart
+#}
 .\PsExec64.exe -h -s \\$CompName "C:\Program Files\McAfee\Agent\cmdagent.exe" -e
-if ($lastexitcode -ne 0){
+#if ($lastexitcode -ne 0){
 #write-host $lastexitcode
-.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi  /forcerestart
-}
+#.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi  /forcerestart
+#}
 .\PsExec64.exe -h -s \\$CompName "C:\Program Files\McAfee\Agent\cmdagent.exe" -p
-if ($lastexitcode -ne 0){
+#if ($lastexitcode -ne 0){
 #write-host $lastexitcode
-.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi  /forcerestart
-}
+#.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi  /forcerestart
+#}
 .\PsExec64.exe -h -s \\$CompName "C:\Program Files\McAfee\Agent\cmdagent.exe" -f
-if ($lastexitcode -ne 0){
+#if ($lastexitcode -ne 0){
 #write-host $lastexitcode
-.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi /forcerestart
-}
+#.\PsExec64.exe -h -s \\$CompName msiexec /fa C:\ProgramData\McAfee\Agent\MFEagent_x64.msi /forcerestart
+#}
 
 
 $MARemote = (Get-Item \\$CompName\c$\'Program Files'\McAfee\Agent\cmdagent.exe).VersionInfo.FileVersion
@@ -103,5 +103,6 @@ write-host 'ENS Platform ='$ENSPlatRemote
 }
 
 #Cleanup c:\windows\temp folder
-#Remove-Item \\$CompName\c$\windows\temp\*.* -Force -Recurse
+Remove-Item \\$CompName\c$\windows\temp\*.* -Force -Recurse
+}
 }
