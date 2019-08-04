@@ -1,4 +1,8 @@
-﻿function Test-RegistryValue {
+#Usage...
+#$reg = Test-RegistryValue -Path 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\CloudContent' -Value 'DisableWindowsConsumerFeatures'
+#write-host $reg
+
+function Test-RegistryValue {
 
 param (
 
