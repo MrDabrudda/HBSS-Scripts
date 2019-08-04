@@ -1,5 +1,0 @@
-rem reg query "\\%CompName%\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager" /v PendingFileRenameOperations if %errorlevel%==0 GOTO REBOOT GOTO END
-rem echo "***REBOOT NEEDED!!!***
-rem choice /C YNC /M "Do you want to schedule a reboot?"
-rem :REBOOT
-rem shutdown.exe /f /r /t 000 /m \\%CompName%
