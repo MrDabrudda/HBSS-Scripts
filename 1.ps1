@@ -14,7 +14,7 @@ $CompName = Read-Host -Prompt 'Input computer name or ip'
 write-host $CompName
 
 #Online Check
-$Online = (Test-Connection $CompName -Count 1 -quiet)
+$Online = (Test-Connection $CompName -Count 2 -quiet)
 if ($Online -eq $false){
 Write-Host $CompName OFFLINE
 }
