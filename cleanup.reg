@@ -1,0 +1,432 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Active Setup Temp Folders]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"Description"="These files should no longer be needed. They were originally created by a setup program that is no longer running."
+"Display"="Temporary Setup Files"
+"FileList"="*.tmp"
+"Flags"=hex:7c,00,00,00
+"Folder"="C:\\Windows\\msdownld.tmp|?:\\msdownld.tmp"
+"LastAccess"=hex:02,00,00,00
+"Priority"=dword:00000032
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\BranchCache]
+@="{DE661907-527D-4d6a-B6A6-EBC7F88D9B95}"
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Content Indexer Cleaner]
+@="{A9B48EAC-3ED8-11d2-8216-00C04FB687DA}"
+"Autorun"=dword:00000001
+"FileList"="*.*"
+"Flags"=dword:00000141
+"Folder"="?:\\Catalog.wci"
+"Priority"=dword:0000012c
+"PropertyBag"="{24400D16-5754-11d2-8218-00C04FB687DA}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\D3D Shader Cache]
+@="{D8D133CD-3F26-402F-86DA-90B710751C2C}"
+"Autorun"=dword:00000001
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Delivery Optimization Files]
+@="{AA65DD7C-83AC-48C0-A6FD-9B61FEBF8800}"
+"Autorun"=dword:00000000
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,64,00,6f,00,6d,00,67,00,6d,00,74,00,2e,00,64,00,6c,00,6c,00,2c,00,2d,\
+  00,31,00,30,00,34,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,64,00,6f,00,6d,00,67,00,6d,00,74,00,2e,00,64,00,6c,00,6c,00,2c,00,2d,00,\
+  31,00,30,00,33,00,00,00
+"Flags"=dword:00000080
+"StateFlags"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Device Driver Packages]
+@="{DEF03231-9688-11E2-BE7F-B4B52FD966FF}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,70,00,6e,00,70,00,63,00,6c,00,65,00,61,00,6e,00,2e,00,64,00,6c,00,6c,\
+  00,2c,00,2d,00,31,00,30,00,32,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,70,00,6e,00,70,00,63,00,6c,00,65,00,61,00,6e,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,31,00,30,00,31,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,70,\
+  00,6e,00,70,00,63,00,6c,00,65,00,61,00,6e,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  30,00,00,00
+"StateFlags"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Downloaded Program Files]
+@="{8369AB20-56C9-11D0-94E8-00AA0059CE02}"
+"AdvancedButtonText"="@C:\\Windows\\System32\\occache.dll,-1072"
+"Autorun"=dword:00000001
+"Description"="@C:\\Windows\\System32\\occache.dll,-1071"
+"Display"="@C:\\Windows\\System32\\occache.dll,-1070"
+"Priority"=hex:64,00,00,00
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameNewsFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\System32\\gameux.dll,-203"
+"Priority"=dword:000000c8
+"StateFlags"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameStatisticsFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\System32\\gameux.dll,-203"
+"Priority"=dword:000000c8
+"StateFlags"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameUpdateFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\System32\\gameux.dll,-203"
+"Priority"=dword:000000c8
+"StateFlags"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Internet Cache Files]
+@="{9B0EFD60-F7B0-11D0-BAEF-00C04FC308C9}"
+"AdvancedButtonText"="&View Files"
+"Autorun"=dword:00000001
+"Description"="The Temporary Internet Files folder contains Web pages stored on your hard disk for quick viewing. Your personalized settings for Web pages will be left intact."
+"Display"="Temporary Internet Files"
+"Priority"=dword:00000064
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Offline Pages Files]
+@="{8E6E6079-0CB7-11d2-8F10-0000F87ABD16}"
+"AdvancedButtonText"="&View Pages"
+"Description"="Offline pages are Web pages that are stored on your computer so you can view them without being connected to the Internet.  If you delete these pages now, you can still view your favorites offline later by synchronizing them.  Your personalized settings for Web pages will be left intact."
+"Display"="Offline Web Pages"
+"Priority"=dword:00000064
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Old ChkDsk Files]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"FileList"="*.CHK"
+"Flags"=dword:00000120
+"Folder"="?:\\FOUND.000|?:\\FOUND.001|?:\\FOUND.002|?:\\FOUND.003|?:\\FOUND.004|?:\\FOUND.005|?:\\FOUND.006|?:\\FOUND.007|?:\\FOUND.008|?:\\FOUND.009"
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,44,\
+  00,41,00,54,00,41,00,43,00,4c,00,45,00,4e,00,2e,00,44,00,4c,00,4c,00,2c,00,\
+  33,00,00,00
+"Priority"=dword:00000032
+"PropertyBag"="{60F6E464-4DEF-11d2-B2D9-00C04F8EEC8C}"
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Previous Installations]
+@="{84e04a55-2d42-4909-86e3-62fd11483e8b}"
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,\
+  00,2c,00,2d,00,31,00,30,00,30,00,33,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,31,00,30,00,30,00,32,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  30,00,00,00
+"PluginType"=dword:00000001
+"SetupPrevInst"=dword:00000001
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Recycle Bin]
+@="{5ef4af3a-f726-11d0-b8a2-00c04fc309a4}"
+"PluginType"=dword:00000002
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\RetailDemo Offline Content]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"FileList"="*.*"
+"Flags"=dword:0000013f
+"Folder"=hex(2):25,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,44,00,61,00,74,\
+  00,61,00,25,00,5c,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,\
+  5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,52,00,65,00,74,00,61,\
+  00,69,00,6c,00,44,00,65,00,6d,00,6f,00,00,00
+"Priority"=dword:000000c8
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Service Pack Cleanup]
+@="{E3A9BD50-51AE-410f-9706-0BA0D68B9A94}"
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,63,00,61,00,76,00,65,00,6e,00,67,00,65,00,75,00,69,00,2e,00,64,\
+  00,6c,00,6c,00,2c,00,2d,00,31,00,30,00,30,00,31,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,63,00,61,00,76,00,65,00,6e,00,67,00,65,00,75,00,69,00,2e,00,64,00,\
+  6c,00,6c,00,2c,00,2d,00,31,00,30,00,30,00,30,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,63,00,61,00,76,00,65,00,6e,00,67,00,65,00,75,00,69,00,2e,00,64,00,6c,00,\
+  6c,00,2c,00,30,00,00,00
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Setup Log Files]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,44,00,41,00,54,00,41,00,43,00,4c,00,45,00,4e,00,2e,00,44,00,4c,00,4c,\
+  00,2c,00,2d,00,31,00,30,00,31,00,31,00,00,00
+"Display"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,44,00,41,00,54,00,41,00,43,00,4c,00,45,00,4e,00,2e,00,44,00,4c,00,4c,00,\
+  2c,00,2d,00,31,00,30,00,31,00,30,00,00,00
+"FileList"="setup*.log|setup*.old|setuplog.txt|winnt32.log"
+"Flags"=dword:00000020
+"Folder"=hex(2):25,00,57,00,49,00,4e,00,44,00,49,00,52,00,25,00,00,00
+"LastAccess"=dword:0000001e
+"Priority"=dword:00000032
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\System error memory dump files]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,77,00,65,00,72,00,66,00,61,00,75,00,6c,00,74,00,2e,00,65,00,78,00,65,\
+  00,2c,00,2d,00,31,00,30,00,31,00,00,00
+"Display"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,77,00,65,00,72,00,66,00,61,00,75,00,6c,00,74,00,2e,00,65,00,78,00,65,00,\
+  2c,00,2d,00,31,00,30,00,30,00,00,00
+"FileList"="*.dmp"
+"Flags"=dword:0000023c
+"Folder"=hex(2):25,00,57,00,49,00,4e,00,44,00,49,00,52,00,25,00,00,00
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,77,\
+  00,65,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,30,00,00,00
+"Priority"=dword:00000064
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\System error minidump files]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,77,00,65,00,72,00,66,00,61,00,75,00,6c,00,74,00,2e,00,65,00,78,00,65,\
+  00,2c,00,2d,00,31,00,30,00,33,00,00,00
+"Display"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,77,00,65,00,72,00,66,00,61,00,75,00,6c,00,74,00,2e,00,65,00,78,00,65,00,\
+  2c,00,2d,00,31,00,30,00,32,00,00,00
+"FileList"="*.dmp"
+"Flags"=dword:0000027d
+"Folder"=hex(2):25,00,57,00,49,00,4e,00,44,00,49,00,52,00,25,00,5c,00,4d,00,69,\
+  00,6e,00,69,00,64,00,75,00,6d,00,70,00,00,00
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,77,\
+  00,65,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,30,00,00,00
+"Priority"=dword:00000064
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Temporary Files]
+@="{0B2C35D2-C8BC-4470-BFC0-D6BB1235E5CE}"
+"Autorun"=dword:00000001
+"FileList"="*.*"
+"Flags"=dword:00000041
+"Folder"=hex(2):25,00,54,00,45,00,4d,00,50,00,25,00,7c,00,25,00,57,00,49,00,4e,\
+  00,44,00,49,00,52,00,25,00,5c,00,54,00,65,00,6d,00,70,00,7c,00,25,00,57,00,\
+  49,00,4e,00,44,00,49,00,52,00,25,00,5c,00,4c,00,6f,00,67,00,73,00,7c,00,25,\
+  00,57,00,49,00,4e,00,44,00,49,00,52,00,25,00,5c,00,53,00,79,00,73,00,74,00,\
+  65,00,6d,00,33,00,32,00,5c,00,4c,00,6f,00,67,00,46,00,69,00,6c,00,65,00,73,\
+  00,00,00
+"LastAccess"=dword:00000007
+"PropertyBag"="{60F6E465-4DEF-11d2-B2D9-00C04F8EEC8C}"
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Temporary Setup Files]
+@="{84e04a55-2d42-4909-86e3-62fd11483e8b}"
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,\
+  00,2c,00,2d,00,31,00,30,00,30,00,31,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,31,00,30,00,30,00,30,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  30,00,00,00
+"PluginType"=dword:00000001
+"RemoveUninstall"=dword:00000001
+"SetupDirectories"="$Windows.~BT;$Windows.~LS;$Windows.~WS;ESD\\Download"
+"ValidIfSetupNotRunning"=dword:00000001
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Temporary Sync Files]
+@="{E96F5460-09CE-4f46-88B1-F4B6B4A8E252}"
+"Autorun"=dword:00000001
+"StateFlags"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Thumbnail Cache]
+@="{889900c3-59f3-4c2f-ae21-a409ea01e605}"
+"Autorun"=dword:00000001
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Update Cleanup]
+@="{606B3777-3051-401F-974A-E66ACA82A3A3}"
+"Autorun"=dword:00000003
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,63,00,61,00,76,00,65,00,6e,00,67,00,65,00,75,00,69,00,2e,00,64,\
+  00,6c,00,6c,00,2c,00,2d,00,31,00,30,00,30,00,33,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,63,00,61,00,76,00,65,00,6e,00,67,00,65,00,75,00,69,00,2e,00,64,00,\
+  6c,00,6c,00,2c,00,2d,00,31,00,30,00,30,00,32,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,63,00,61,00,76,00,65,00,6e,00,67,00,65,00,75,00,69,00,2e,00,64,00,6c,00,\
+  6c,00,2c,00,30,00,00,00
+"Priority"=dword:00000032
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Upgrade Discarded Files]
+@="{84e04a55-2d42-4909-86e3-62fd11483e8b}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,\
+  00,2c,00,2d,00,31,00,30,00,30,00,35,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,31,00,30,00,30,00,34,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  30,00,00,00
+"Priority"=dword:00000064
+"SetupDirectories"="$WINDOWS.~Q;$INPLACE.~TR"
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\User file versions]
+@="{0F563B5F-8EE2-4516-BA0A-544DE058C75B}"
+"Autorun"=dword:00000001
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,46,\
+  00,69,00,6c,00,65,00,48,00,69,00,73,00,74,00,6f,00,72,00,79,00,2e,00,65,00,\
+  78,00,65,00,2c,00,2d,00,31,00,30,00,30,00,00,00
+"Priority"=dword:0000012c
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Windows Defender]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,46,\
+  00,69,00,6c,00,65,00,73,00,25,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,\
+  73,00,20,00,44,00,65,00,66,00,65,00,6e,00,64,00,65,00,72,00,5c,00,4d,00,70,\
+  00,41,00,73,00,44,00,65,00,73,00,63,00,2e,00,64,00,6c,00,6c,00,2c,00,2d,00,\
+  33,00,38,00,30,00,00,00
+"Display"=hex(2):40,00,25,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,46,00,\
+  69,00,6c,00,65,00,73,00,25,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,\
+  00,20,00,44,00,65,00,66,00,65,00,6e,00,64,00,65,00,72,00,5c,00,4d,00,70,00,\
+  41,00,73,00,44,00,65,00,73,00,63,00,2e,00,64,00,6c,00,6c,00,2c,00,2d,00,33,\
+  00,30,00,30,00,00,00
+"Filelist"="*.*"
+"Flags"=dword:0000003d
+"Folder"="C:\\ProgramData\\Microsoft\\Windows Defender\\LocalCopy|C:\\ProgramData\\Microsoft\\Windows Defender\\Support"
+"Priority"=dword:00000032
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Windows Error Reporting Files]
+@="{C0E13E61-0CC6-11d1-BBB6-0060978B2AE6}"
+"Autorun"=dword:00000000
+"Description"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,77,00,65,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,2d,00,33,00,30,00,36,\
+  00,00,00
+"Display"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,77,00,65,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,2d,00,33,00,30,00,35,00,\
+  00,00
+"FileList"="*.*"
+"Flags"=dword:0000007d
+"Folder"=hex(2):25,00,41,00,4c,00,4c,00,55,00,53,00,45,00,52,00,53,00,50,00,52,\
+  00,4f,00,46,00,49,00,4c,00,45,00,25,00,5c,00,4d,00,69,00,63,00,72,00,6f,00,\
+  73,00,6f,00,66,00,74,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,\
+  00,57,00,45,00,52,00,5c,00,00,00
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,77,\
+  00,65,00,72,00,2e,00,64,00,6c,00,6c,00,2c,00,30,00,00,00
+"PreCleanupString"="wermgr.exe -purgestores"
+"Priority"=dword:00000064
+"StateFlags"=dword:00000001
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Windows ESD installation files]
+@="{84e04a55-2d42-4909-86e3-62fd11483e8b}"
+"Autorun"=dword:00000001
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,\
+  00,2c,00,2d,00,31,00,30,00,30,00,39,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,31,00,30,00,30,00,38,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  30,00,00,00
+"Priority"=dword:00000064
+"SetupDirectories"="ESD\\\\Windows"
+"ValidIfESDInstall"=dword:00000001
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\Windows Upgrade Log Files]
+@="{84e04a55-2d42-4909-86e3-62fd11483e8b}"
+"Autorun"=dword:00000003
+"Description"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,\
+  00,2c,00,2d,00,31,00,30,00,30,00,37,00,00,00
+"Display"=hex(2):40,00,25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,31,00,30,00,30,00,36,00,00,00
+"IconPath"=hex(2):25,00,73,00,79,00,73,00,74,00,65,00,6d,00,72,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,65,00,74,00,75,00,70,00,63,00,6c,00,6e,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  30,00,00,00
+"Priority"=dword:00000032
+"SetupDirectories"="Windows\\\\Panther"
+"ValidIfUpgrade"=dword:00000001
+"StateFlags"=dword:00000000
+"StateFlags0001"=dword:00000002
