@@ -116,7 +116,7 @@ write-host $lastexitcode
 
 $MARemote = (Get-Item \\$CompName\c$\'Program Files'\McAfee\Agent\cmdagent.exe).VersionInfo.FileVersion
 
-if ($MARemote -ne $MAVersion) { #11
+if ($MARemote -ne $MAVersion) {
 
 write-host 'MA Remote ='$MARemote -ForegroundColor Yellow
 write-host "Outdated MA" -ForegroundColor Yellow
@@ -129,7 +129,7 @@ New-Item -Path FileSystem::\\$CompName\c$\temp -type directory -Force
 copy FramePKG.exe \\$CompName\c$\temp
 .\PsExec64.exe -h -s \\$CompName C:\temp\FramePKG.exe /Install=AGENT /FORCEINSTALL /SILENT
 
-                            } #11
+                            }
 
 .\PsExec64.exe -d -h -s \\$CompName "C:\Program Files\McAfee\Endpoint Security\Threat Prevention\amcfg.exe" /update
 
